@@ -1,7 +1,6 @@
 streamlit
 openai
 pillow==11.1.0
-base64
 streamlit
 openai
 markdown-it-py==3.0.0
