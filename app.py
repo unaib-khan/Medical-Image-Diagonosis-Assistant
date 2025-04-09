@@ -116,7 +116,9 @@ if prompt:
         except Exception as e:
             st.error(f"An error occurred: {str(e)}")
 
-st.markdown("Created with love by Unaib")
-elif uploaded_file:
+if not prompt and uploaded_file:
     st.warning("Please enter a text query to accompany the image.")
+
+st.markdown("Created with love by Unaib")
+
     
