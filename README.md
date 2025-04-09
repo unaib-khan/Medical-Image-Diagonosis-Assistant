@@ -24,4 +24,3 @@ The SambaNova Medical Image Diagnosis Assistant is a web-based application desig
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/unaib-khan/Medical-Image-Diagonosis-Assistant.git
-   cd sambanova-med-diagnosis
